@@ -11,3 +11,5 @@ If you are using our mLFR Benchmark please cite our work and work of A. Lancichi
 Repository contains
 1. Java application (jar)
 2. Java Source Code (Eclipse project)
+
+PS. The code is from 2009-2010 so feel free to move it to Python, R or anything "newer" :)
